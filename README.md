@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdelah Nesredin</h1>
+<h3 align="center">
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Passionate+Full+Stack+Developer;Always+Learning+%26+Improving" alt="Typing SVG" />
+  </span>
+</h3>
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align="right" alt="Coding" width="250" height="200" >
 <h3 align="center">A passionate MobileApp and Fluu Stack Developer  From Ethiopia </h3>
