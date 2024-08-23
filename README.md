@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelah Nesredin</h1>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align="right" alt="Coding" width="250" height="200" >
 <h3 align="center">A passionate MobileApp Developer From Ethiopia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdunesr" alt="abdunesr" /></a> </p>
