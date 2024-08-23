@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelah Nesredin Passionated Mobile App Developer Full Stack Developer</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <h3 align="center">
   <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Passionated+Full+Stack+Developer;Always+Learning+%26+Improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Passionate+Full+Stack+Developer;Always+Learning+%26+Improving" alt="Typing SVG" />
   </span>
 </h3>
 
