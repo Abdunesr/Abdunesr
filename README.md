@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdela-nasir-259759301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdela-nasir-259759301" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abdelah-nesredin-a6058b318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdela-nasir-259759301" height="30" width="40" /></a>
 <a href="https://fb.com/abdelahnesredin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelahnesredin" height="30" width="40" /></a>
 <a href="https://instagram.com/abdu_nesr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdu_nesr7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abdnesr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdnesr7" height="30" width="40" /></a>
