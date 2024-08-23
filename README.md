@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelah Nesredin</h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align="right" alt="Coding" width="250" height="200" >
-<h3 align="center">A passionate MobileApp Developer From Ethiopia</h3>
+<h3 align="center">A passionate MobileApp and Fluu Stack Developer  From Ethiopia </h3>
 - 🌱 I’m currently learning **Software Enginnering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdunesr](https://github.com/Abdunesr)
