@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelah Nesredin</h1>
+<h1 align="center">Hi 👋, I'm Abdelah Nesredin Passionated Mobile App Developer Full Stack Developer</h1>
 <h3 align="center">
   <span>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Passionated+Full+Stack+Developer;Always+Learning+%26+Improving" alt="Typing SVG" />
