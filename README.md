@@ -28,13 +28,6 @@ Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** develop
 - Team Collaboration
 - Agile Methodologies
 
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-- [Project 1: Flutter App](link-to-your-project)
-- [Project 2: React Website](link-to-your-project)
-- [Project 3: Node.js API](link-to-your-project)
 
 Feel free to explore my repositories to see more of my work!
 
