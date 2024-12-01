@@ -26,6 +26,11 @@ Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** develop
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> Firebase
     </td>
     <td>
+      <strong>Databases</strong><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/> MongoDB<br>
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> MySQL
+    </td>
+    <td>
       <strong>Version Control</strong><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> Git<br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/> GitHub
