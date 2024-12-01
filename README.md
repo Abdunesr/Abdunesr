@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** develop
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/> HTML<br>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/> CSS<br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> JavaScript<br>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery"/> jQuery<br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/> Flutter<br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/> React<br>
       <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> Tailwind CSS<br>
@@ -21,7 +22,8 @@ Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** develop
       <strong>Back-End Development</strong><br>
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/> Java<br>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> C++<br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/> Node.js
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/> Node.js<br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> Firebase
     </td>
     <td>
       <strong>Version Control</strong><br>
@@ -32,7 +34,10 @@ Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** develop
       <strong>Other Skills</strong><br>
       Problem Solving<br>
       Team Collaboration<br>
-      Agile Methodologies
+      Agile Methodologies<br>
+      Communication Skills<br>
+      Adaptability<br>
+      Time Management
     </td>
   </tr>
 </table>
