@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** develop
     </td>
     <td>
       <strong>Back-End Development</strong><br>
-
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> C++<br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/> Node.js<br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/> Node.js<br>
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js"/> Express.js<br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/> Dart<br>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> Firebase
     </td>
     <td>
@@ -52,7 +52,7 @@ Feel free to explore my repositories to see more of my work!
 ## 📫 Get in Touch
 
 - **Email**: [Abdnesredin7@gmail.com](mailto:abdnesredin7@gmail.com)
-- **LinkedIn**: [mylinkdin](https://www.linkedin.com/in/abdelah-nesredin-a6058b318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [Abdelah Nesredin](https://www.linkedin.com/in/abdelah-nesredin-a6058b318)
 
 ## 🌈 Fun Fact
 
