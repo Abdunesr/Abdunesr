@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** develop
     </td>
     <td>
       <strong>Back-End Development</strong><br>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/> Java<br>
+
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> C++<br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/> Node.js<br>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> Firebase
