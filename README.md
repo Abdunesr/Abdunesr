@@ -1,46 +1,41 @@
-# 👋 Hello, I'm Abdelah Nesredin!
+# 👋 Hello, I'm Abdelah Nesredin  
 
-Welcome to my GitHub profile! I'm a passionate **Flutter** and **React** developer with a diverse skill set in both front-end and back-end development.
-## 🌟 Skills
+### Flutter | Laravel | Node.js | React | Next.js Developer  
 
-<table>
-  <tr>
-    <td>
-      <strong>Front-End Development</strong><br>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/> Flutter<br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> JavaScript<br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/> React<br>
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> Tailwind CSS<br>
-    </td>
-    <td>
-      <strong>Back-End Development</strong><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/> Node.js<br>
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js"/> Express.js<br>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/> Dart<br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> Firebase
-    </td>
-    <td>
-      <strong>Version Control</strong><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> Git<br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/> GitHub
-    </td>
-    <td>
-      <strong>Other Skills</strong><br>
-      Problem Solving<br>
-      Team Collaboration<br>
-      Agile Methodologies<br>
-      Communication Skills<br>
-      Adaptability<br>
-      Time Management
-    </td>
-  </tr>
-</table>
+Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in both mobile and web development. I love building beautiful, responsive, and high-performance applications.  
 
-#  git commit -m 'Bismillah'
+## 🛠️ Tech Stack  
 
-## 📫 Get in Touch
+**Frontend:**  
+- Flutter (Mobile Apps)  
+- React.js  
+- Next.js  
+- typescript
 
-- **Email**: [Abdnesredin7@gmail.com](mailto:abdnesredin7@gmail.com)
-- **LinkedIn**: [Abdelah Nesredin](https://www.linkedin.com/in/abdelah-nesredin-a6058b318)
+**Backend:**  
+- Laravel (PHP)  
+- Node.js  
+- Express.js  
 
-## Thank you for visiting my GitHub profile! Let's connect and collaborate!
+
+- Firebase  
+
+
+
+## 📫 Get in Touch  
+
+- ✉️ Email: [abdnesredin7@gmail.com](mailto:abdnesredin7@gmail.com)  
+- 💼 LinkedIn: [Abdelah Nesredin](https://www.linkedin.com/in/abdelah-nesredin-a6058b318/)  
+
+
+## 🔥 My GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdunesr&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdunesr&layout=compact&theme=radical)  
+
+---  
+
+⭐️ Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities!  
+
+Happy Coding! 🚀  
