@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building beau
 
 **📊 Data & AI:**  
 - <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="16" height="16" /> Machine Learning (Jupyter Notebook)  
-- <img src="https://img.icons8.com/color/48/000000/firebase.png" width="16" height="16" /> Firebase  
+- <img src="https://img.icons8.com/color/48/000000/firebase.png" width="16" height="16" /> Firebase
 
 ## 📫 Get in Touch  
 
